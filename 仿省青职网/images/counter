@@ -1,0 +1,6 @@
+
+
+
+
+
+var _COUNTER_HTML_PAGE = document.getElementById('test');if (typeof(_COUNTER_HTML_PAGE) != 'undefined') {_COUNTER_HTML_PAGE.innerHTML='17';}
